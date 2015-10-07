@@ -1,2 +1,6 @@
 # hello-world
-just learning how to set up a repository via the tutorial
+master repository and branch set up; editing the README as part of the new branch.
+
+Tomorrow and tomorrow and tomorrow creeps in its petty pace from day to day, to the last syllable of recorded time, and all our yesterdays have lighted fools the way to dusty death.
+
+
